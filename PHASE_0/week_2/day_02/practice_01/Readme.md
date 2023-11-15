@@ -1,0 +1,3 @@
+1.Buatlah sebuah script untuk meminta user untuk meminta password, bisa menggunakan prompt.Buat juga sebuah variabel yang menampung password yang seharusnya.Kemudian, buat sebuah logika jika password yang dimasukkan user benar, berikan informasibenar (bisa menggunakan alert). Jika salah, direct ke halaman lain, misalnya Google,menggunakan code di bawah ini:
+
+2. Gunakan Prompt untuk meminta user memasukkan angka antara 1 sampai 100.ketika score di antara 80 and 100, alert 'your grade is A' ketika score di antara 80 and 60, alert'your grade is B' ketika score di antara 60 and 40, alert 'your grade is C' ketika score di bawah40, alert 'your grade is D'. Ketika value is di luar dari 1 sampai 100, alert 'cannot calculate yourgrade'
